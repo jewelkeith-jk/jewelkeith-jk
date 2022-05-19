@@ -7,7 +7,7 @@
 
 🏫 On my Web Development blog page, I share my list of **[learning resources](https://jewelkeith-jk.hashnode.dev/web-development)** 
 
-👯 I’m game for collaboration on **awesome projects**
+👯 I’m available for collaboration on **awesome projects**
 
 🎯 Goal: Get a Frontend Developer Job by the end of September
 

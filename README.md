@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I love anime**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/jewelkeith_jk" target="blank"><img src="https://img.shields.io/twitter/follow/jewelkeith_jk?logo=twitter&style=for-the-badge" alt="jewelkeith_jk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jewelkeith_jk" target="blank"><img src="https://jewelkeith-jk.github.io/codepen-assets/Github Profile/codepen logo.svg" alt="jewelkeith_jk" /></a> </p>
 <p align="left">
 <a href="https://codepen.io/jkal-eunkyung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jkal-eunkyung" height="30" width="40" /></a>
 <a href="https://twitter.com/jewelkeith_jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jewelkeith_jk" height="30" width="40" /></a>

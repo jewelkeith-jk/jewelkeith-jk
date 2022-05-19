@@ -18,7 +18,7 @@
 <a href="https://codepen.io/jkal-eunkyung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jkal-eunkyung" height="30" width="40" /></a>
 <a href="https://twitter.com/jewelkeith_jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jewelkeith_jk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jewel-keith-lobedica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jewel-keith-lobedica/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jewelkeith-jk" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg](https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress)" alt="@jewelkeith-jk" height="30" width="40" /></a>
+<a href="https://hashnode.com/@jewelkeith-jk" target="blank"><img align="center" src="https://github.com/jewelkeith-jk/codepen-assets/blob/main/Github%20Profile/hashnode%20logo.svg" alt="@jewelkeith-jk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

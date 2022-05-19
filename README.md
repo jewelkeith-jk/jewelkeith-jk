@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **awesome projects**
+- 👯 I’m looking to collaborate on **Vanilla JavaScript projects**
 
 - 📝 I regularly write articles on [Hashnode](https://jewelkeith-jk.hashnode.dev/)
 

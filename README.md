@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Jewel</h1>
-<h3 align="center">A passionate Web Developer from Philippines</h3>
+<h1 align="center">Hi 👋 I'm Jewel</h1>
+<h3 align="center">A passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+🌱 I’m currently learning more about **JavaScript**
 
-- 👯 I’m looking to collaborate on **Vanilla JavaScript projects**
+✏️ I regularly write blog articles on **[Hashnode](https://jewelkeith-jk.hashnode.dev/)**
 
-- 📝 I regularly write articles on [Hashnode](https://jewelkeith-jk.hashnode.dev/)
+🏫 On my Web Development blog page, I share my list of **[learning resources](https://jewelkeith-jk.hashnode.dev/web-development)** 
 
-- 💬 Ask me about **HTML and CSS**
+👯 I’m game for collaboration on **awesome projects**
 
-- ⚡ Fun fact: **I love anime**
+🎯 Goal: Get a Frontend Developer Job by the end of September
+
+⚡ Fun fact: **I love anime**
+
+---
+
+<h3 align="left">Tech Stack:</h3>
+
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left"> <a href="https://twitter.com/jewelkeith_jk" target="blank"><img src="https://img.shields.io/twitter/follow/jewelkeith_jk?logo=twitter&style=for-the-badge" alt="jewelkeith_jk" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/jewelkeith_jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jewelkeith_jk" height="30" width="40" /></a>
@@ -20,5 +35,4 @@
 <a href="https://codepen.io/jkal-eunkyung" target="blank"><img align="center" src="https://jewelkeith-jk.github.io/codepen-assets/Github Profile/codepen logo.svg" alt="jkal-eunkyung" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+

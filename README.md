@@ -3,13 +3,13 @@
 
 🌱 I’m currently learning more about **JavaScript**
 
-✏️ I regularly write blog articles on **[Hashnode](https://jewelkeith-jk.hashnode.dev/)**
+✏️ I regularly write articles on **[Hashnode](https://jewelkeith-jk.hashnode.dev/)**
 
 🏫 On my Web Development blog page, I share my list of **[learning resources](https://jewelkeith-jk.hashnode.dev/web-development)** 
 
-👯 I’m available for collaboration on **awesome projects**
+💯 I show my commitment in finishing the #100DaysOfCode challenge on [Twitter](https://twitter.com/jewelkeith_jk) 
 
-🎯 Goal: Get a Frontend Developer Job by the end of September
+👯 I’m available for collaboration on **awesome projects**
 
 ⚡ Fun fact: **I love anime**
 
@@ -28,11 +28,10 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left"> <a href="https://twitter.com/jewelkeith_jk" target="blank"><img src="https://img.shields.io/twitter/follow/jewelkeith_jk?logo=twitter&style=for-the-badge" alt="jewelkeith_jk" /></a> </p>
+
 <p align="left">
-<a href="https://twitter.com/jewelkeith_jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jewelkeith_jk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jewel-keith-lobedica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jewel-keith-lobedica/" height="30" width="40"/></a>
-<a href="https://hashnode.com/@jewelkeith-jk" target="blank"><img align="center" src="https://jewelkeith-jk.github.io/codepen-assets/Github Profile/hashnode logo.svg" alt="@jewelkeith-jk" height="30" width="40" /></a>
-<a href="https://codepen.io/jkal-eunkyung" target="blank"><img align="center" src="https://jewelkeith-jk.github.io/codepen-assets/Github Profile/codepen logo.svg" alt="jkal-eunkyung" height="30" width="40" /></a>
+  <a href="https://twitter.com/jewelkeith_jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jewelkeith_jk" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jewel-keith-lobedica/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jewel-keith-lobedica/" height="30" width="40"/></a>
+  <a href="https://hashnode.com/@jewelkeith-jk" target="blank"><img align="center" src="https://jewelkeith-jk.github.io/codepen-assets/Github Profile/hashnode logo.svg" alt="@jewelkeith-jk" height="30" width="40" /></a>
+  <a href="https://codepen.io/jkal-eunkyung" target="blank"><img align="center" src="https://jewelkeith-jk.github.io/codepen-assets/Github Profile/codepen logo.svg" alt="jkal-eunkyung" height="30" width="40" /></a>
 </p>
-
-

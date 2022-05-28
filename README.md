@@ -7,7 +7,7 @@
 
 🏫 On my Web Development blog page, I share my list of **[learning resources](https://jewelkeith-jk.hashnode.dev/web-development)** 
 
-💯 I show my commitment in finishing the #100DaysOfCode challenge on **[Twitter](https://twitter.com/jewelkeith_jk)** and [Linkedin](https://www.linkedin.com/in/jewel-keith-lobedica/)
+💯 I show my commitment in finishing the #100DaysOfCode challenge on **[Twitter](https://twitter.com/jewelkeith_jk)** and **[Linkedin](https://www.linkedin.com/in/jewel-keith-lobedica/)**
 
 👯 I’m available for collaboration on **awesome projects**
 

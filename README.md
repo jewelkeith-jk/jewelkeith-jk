@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm Jewel</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A Creative Web Developer & Designer</h3>
 
-🌱 I’m currently learning more about **JavaScript**
+💖 I’m currently falling in love with **[JavaScript](https://scrimba.com/learn/learnjavascript)**, **[Figma and Webflow](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/)**. 
 
-✏️ I sometimes write articles on **[Hashnode](https://jewelkeith-jk.hashnode.dev/)**
+✏️ I sometimes write articles on **[Hashnode](https://jewelkeith-jk.hashnode.dev/)**.
 
-🏫 On my Web Development blog page, I share my list of **[learning resources](https://jewelkeith-jk.hashnode.dev/web-development)** 
+📚 On my **[Web Development](https://jewelkeith-jk.hashnode.dev/web-development)** and **Web Design** blog pages, I share my list of the learning resources I find useful.
 
-💯 I show my commitment in finishing the **#100DaysOfCode** challenge on **[Twitter](https://twitter.com/jewelkeith_jk)** and **[Linkedin](https://www.linkedin.com/in/jewel-keith-lobedica/)**
+💯 I show my commitment in finishing the **#100DaysOfCode** and **#30DaysOfWebDesign** challenge on **[Twitter](https://twitter.com/jewelkeith_jk)** and **[Linkedin](https://www.linkedin.com/in/jewel-keith-lobedica/)**.
 
-👯 I’m available for collaboration on **awesome projects**
+👯 I’m available for collaboration on **awesome projects**.
 
 ⚡ Fun fact: **I love anime**
 
@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 </p>
 
 ---

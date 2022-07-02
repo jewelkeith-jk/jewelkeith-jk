@@ -5,7 +5,7 @@
 
 ✏️ I sometimes write articles on **[Hashnode](https://jewelkeith-jk.hashnode.dev/)**.
 
-📚 On my **[Web Development](https://jewelkeith-jk.hashnode.dev/web-development)** and **Web Design** blog pages, I share my list of the learning resources I find useful.
+📚 On my **[Web Development](https://jewelkeith-jk.hashnode.dev/web-development)** blog page, I share my list of the learning resources I find useful.
 
 💯 I show my commitment in finishing the **#100DaysOfCode** and **#100DaysOfWebDesign** challenge on **[Twitter](https://twitter.com/jewelkeith_jk)** and **[Linkedin](https://www.linkedin.com/in/jewel-keith-lobedica/)**.
 

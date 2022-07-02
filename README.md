@@ -22,6 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="[https://www.vectorlogo.zone/logos/figma/figma-icon.svg](https://ucce5059827a64307637038d8b0a.previews.dropboxusercontent.com/p/thumb/ABnH6W7uvo3g518dK3so93aqgpRA9CHonGlOVQSZGFBJpa7TEJICjTlogskEJBgq0Smk9NQGgC20LSv6FaI_jqNOsQrCA3FrTYOv9WdlJAx1EyTT8nK3r1a7am1DUDsuH1GS4FBw0Rws4ltN3HFaEOtQxgmOv14sBnptOdDXAezxb4lfCGXXHnxkSedjvRbwE2EQGy_C12_JLPqyJEADaoXojXtqgRxkX5hdPoPuEK7asx8KVkEoIy4oDimsbHapJf_zOkb31msiT0eCAWVoBUWsvu0w4TCx0H4J_agnVaI6CdajJWc_ab1ic37Gk1h3j5ZxM1owLNGPIiJY3wyrQTC0n84Zax-fZB4VY_BTlLMp8k9EqbdX8o31bLWIrpbS34g/p.png)" alt="webflow" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 </p>
 
 ---

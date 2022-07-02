@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Jewel</h1>
+<h1 align="center">Hi 👋 Jewel here</h1>
 <h3 align="center">A Creative Web Developer & Designer</h3>
 
 💖 I’m currently falling in love with **[JavaScript](https://scrimba.com/learn/learnjavascript)**, **[UX/UI and Webflow](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/)**. 

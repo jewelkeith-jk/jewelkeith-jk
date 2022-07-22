@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jewel</h1>
 <h3 align="center">A Creative Web Developer & Designer</h3>
 
-💖 Honestly falling in love with **[JavaScript](https://scrimba.com/learn/learnjavascript)**, **[UX/UI and Webflow](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/)**. 
+💖 Currently into **[JavaScript](https://scrimba.com/learn/learnjavascript)**, **[UX/UI and Webflow](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/)**. 
 
 ✏️ I sometimes write articles on **[Hashnode](https://jewelkeith-jk.hashnode.dev/)**.
 
